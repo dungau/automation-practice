@@ -1,3 +1,7 @@
 # Hide files with extensions .db, .log, etc
 *.db
 *.log
+
+# Hide folders with names ‘target’ , ‘bin’ etc
+target/
+bin/
